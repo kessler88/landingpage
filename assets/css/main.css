@@ -2124,6 +2124,7 @@ input, select, textarea {
 			display: block;
 			margin: 0 0 2em 0;
 			width: 100%;
+			
 		}
 
 			.image.fit img {
@@ -2470,6 +2471,11 @@ input, select, textarea {
 			color: #4eabda !important;
 		}
 
+		.button-resume:hover {
+			border-color: #ffda36;
+			color: #e0c827 !important;
+		}
+
 		.button-github:hover {
 			border-color: #07090a;
 			color: #262e32 !important;
@@ -2565,7 +2571,7 @@ input, select, textarea {
 	}
 
 		.work-item .image {
-			margin: 0 0 1.5em 0;
+			margin: 0 0 1.5em 0
 		}
 
 		.work-item h3 {
